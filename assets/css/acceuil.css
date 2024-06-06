@@ -1,0 +1,53 @@
+body{
+    background-color:#eff2f4;
+}
+.navbar{
+    width: 100%;
+    height:100px ;
+    position: fixed;
+    background-color:#009FE3;
+    margin-left: -9px;
+}
+#corps{
+    display: block;
+}
+.lien{
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+}
+.box{
+    width: 10%;
+    height: auto;
+    display: inline-block;
+    margin-left: 2%;
+}
+ h1{
+    color:white;
+}
+.space{
+    width: 100%;
+    height: 50px;
+   
+}
+#center{
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    background-image: url("../../image/LOGO_ESTI_JO.png");
+    background-size:cover ;
+    margin-top: 100px;
+} 
+#deco{
+    float: right;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.ligne{
+    text-align: center;
+    color:#f4a140 ;
+}
+
+
+

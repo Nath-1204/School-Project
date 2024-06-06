@@ -1,0 +1,64 @@
+.titre{
+    color:#009FE3;
+}
+#container{
+    width: 50%;
+    height: auto;
+    background-color:white;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5); 
+    position: relative;
+    top: 10%;
+}
+#space{
+    width: 100%;
+    height: 25px;
+    background-color:white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+#space_down{
+    width: 100%;
+    height: 70px;
+    background-color:white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+#logo{
+    width: 50%;
+    height: 200px;
+    margin-bottom: 10px;
+    margin-left: 25%;
+    background-image: url("../../image/LOGO_ESTI_JO.png");
+    background-size: cover;
+    border-radius: 20px;
+}
+.titre{
+    text-align: center;
+}
+.input{
+    width: 60%;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(231, 228, 228, 0.5); 
+    margin-left:20% ;
+}
+.input_but{
+    width: 20%;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(231, 228, 228, 0.5); 
+    margin-left:40% ;
+    background-color: #009FE3;
+}
+.input :hover{
+    border-color:#009FE3;
+}
+h4{
+    text-align: center;
+}
